@@ -53,3 +53,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 Note: For OCR on local machine, make sure Tesseract and Poppler are installed and added to PATH.
+
